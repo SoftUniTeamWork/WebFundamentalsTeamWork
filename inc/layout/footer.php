@@ -22,7 +22,7 @@
             </div>
         </div>
         <hr/>
-        <p>&copy; Team French Wine | <a href="https://softuni.bg">SoftUni</a></p>
+        <p>&copy; Team French Wine | <a href="https://softuni.bg">SoftUni</a> | <a href="http://validator.w3.org/check?uri=http%3A%2F%2Fteamwork.m-bg.org%2F">Valid HTML5</a></p>
     </div>
 </footer>
 

@@ -3,13 +3,10 @@
 }
 
 #home-slider {
-    
     width: 800px;
 	height: 500px;
-	margin: 0 auto 50px ;
-	margin-bottom: ;
+	margin: 0 auto 50px;
 }
-
 
 #footer {
     margin-top: 50px;
@@ -18,11 +15,12 @@
 #staff .row {
     margin-bottom: 50px;
 }
+
 body {
-	background-image: url(../images/bg.jpg);
-	background-size: cover;
+	background: url('../images/bg.jpg') no-repeat top center fixed;
+	/*background-size: cover;*/
 }
 
-.navbar-default .navbar-nav>li>a:hover {
-	color:#9632b6;
+.navbar-default .navbar-nav > li > a:hover {
+	color: #9632b6;
 }
