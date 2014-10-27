@@ -4,7 +4,8 @@
         'home' => 'Home',
         'events' => 'Events',
         'staff' => 'Staff',
-        'contact-us' => 'Contact us'
+        'gallery' => 'Gallery',
+        'contact-us' => 'Contact us',
     ];
     $currentPage = (!empty($_GET['p'])) ? $_GET['p'] : '';
 

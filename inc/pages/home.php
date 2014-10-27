@@ -9,14 +9,14 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <img src="http://placehold.it/1140x450">
+                <img src="images/slide.jpg">
                 <div class="carousel-caption">
                     <h4>slide 1</h4>
                     <p>Lorem ipsum dolor sit.</p>
                 </div>
             </div>
             <div class="item">
-                <img src="http://placehold.it/1140x450">
+                <img src="images/slide1.jpg">
                 <div class="carousel-caption">
                     <h4>slide 2</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur.</p>

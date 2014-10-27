@@ -3,9 +3,23 @@
 }
 
 #home-slider {
-    margin-bottom: 50px;
+    
+    width: 800px;
+	height: 500px;
+	margin: 0 auto 50px ;
+	margin-bottom: ;
 }
+
 
 #footer {
     margin-top: 50px;
+}
+
+body {
+	background-image: url(../images/bg.jpg);
+	background-size: cover;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+	color:#9632b6;
 }
