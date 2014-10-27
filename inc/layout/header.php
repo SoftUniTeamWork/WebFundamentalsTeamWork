@@ -13,7 +13,7 @@
 
 <header>
     <div class="container">
-        <a href="index.php"><img src="images/header1.jpg" class="img-responsive"></a>
+        <a href="index.php"><img src="images/header1.jpg" class="img-responsive" alt="header"></a>
     </div>
 </header>
 

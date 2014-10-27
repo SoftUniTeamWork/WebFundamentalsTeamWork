@@ -9,14 +9,14 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
             <div class="item active">
-                <img src="images/slide.jpg">
+                <img src="images/slide.jpg" alt="slide">
                 <div class="carousel-caption">
                     <h4>slide 1</h4>
                     <p>Lorem ipsum dolor sit.</p>
                 </div>
             </div>
             <div class="item">
-                <img src="images/slide1.jpg">
+                <img src="images/slide1.jpg" alt="slide">
                 <div class="carousel-caption">
                     <h4>slide 2</h4>
                     <p>Lorem ipsum dolor sit amet, consectetur.</p>
