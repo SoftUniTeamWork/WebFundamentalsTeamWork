@@ -7,6 +7,7 @@
     <title>Team French Wine - <?=$pages[$currentPage];?></title>
 
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/lightbox.css"/>
     <link rel="stylesheet" href="css/style.css"/>
 </head>
 <body>
