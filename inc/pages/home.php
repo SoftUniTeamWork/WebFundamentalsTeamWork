@@ -60,4 +60,4 @@
         all times. Upstairs every SHARE guest can enjoy the luxury and privacy of the
         SHARE Ultra Lounge and bar with open seating or VIP Private rooms. Share Nightclub, bar and Ultra Lounge is located at Vasil Kanchev Street. Share Nightclub is the newest club in Sofia. Come here and SHARE the experience!
     </div>
- width="800" </div>
+ </div>
