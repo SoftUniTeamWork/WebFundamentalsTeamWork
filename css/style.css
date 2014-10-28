@@ -6,6 +6,7 @@
     width: 800px;
 	height: 500px;
 	margin: 0 auto 50px;
+    max-width: 100%;
 }
 
 #footer {
@@ -21,16 +22,12 @@ body {
 	/*background-size: cover;*/
 }
 
-<<<<<<< HEAD
-.navbar-default .navbar-nav>li>a:hover {
-	color:#9632b6;
-}
-.footer .owners>ul{
+.footer .owners > ul {
 	list-style-type: none;
 }
 
-=======
 .navbar-default .navbar-nav > li > a:hover {
 	color: #9632b6;
 }
->>>>>>> 1ae890578edde42254eb6a53b171423307224ee8
+
+

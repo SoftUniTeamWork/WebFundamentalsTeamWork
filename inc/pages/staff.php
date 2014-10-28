@@ -12,7 +12,7 @@
         <div class="col-md-4"><a href="images/staff/Alex.jpg" data-lightbox="staff-lightbox"><img class="img-responsive" src="images/staff/Alex.jpg" alt=""/></a></div>
         <div class="col-md-8">
             <h1>Hostess/Waitress</h1>
-            <p>Alexandra Alexandrova a.k.a. Alex The Punisher is the one that welcomes our guests at the entrance. When the club is full she helps serving drinks to our guests. She is known for her cruel methods when she gets in tough situations. Nobody knows anything about her past so better don't ask because you might get into trouble.</hp>
+            <p>Alexandra Alexandrova a.k.a. Alex The Punisher is the one that welcomes our guests at the entrance. When the club is full she helps serving drinks to our guests. She is known for her cruel methods when she gets in tough situations. Nobody knows anything about her past so better don't ask because you might get into trouble.</p>
         </div>
     </div>
 
