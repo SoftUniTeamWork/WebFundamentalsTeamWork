@@ -11,15 +11,15 @@
             <div class="item active">
                 <img src="images/slide.jpg" alt="slide">
                 <div class="carousel-caption">
-                    <h4>slide 1</h4>
-                    <p>Lorem ipsum dolor sit.</p>
+                    <h4>Dj Nako C# is Rocking Da Haus</h4>
+                    <p>Ultra dance party. SHARE the moment!!!</p>
                 </div>
             </div>
             <div class="item">
                 <img src="images/slide1.jpg" alt="slide">
                 <div class="carousel-caption">
-                    <h4>slide 2</h4>
-                    <p>Lorem ipsum dolor sit amet, consectetur.</p>
+                    <h4>Dj Nako C# at his best</h4>
+                    <p></p>
                 </div>
             </div>
         </div>
@@ -37,13 +37,18 @@
 <div class="container">
     <div class="row">
         <div class="col-md-8">
-            <h1>Lorem ipsum dolor sit.</h1>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Animi aperiam, assumenda commodi consequatur cupiditate esse eum ex facere labore laudantium magnam magni minus molestiae nemo nobis nostrum officiis reprehenderit sint suscipit veniam, vero vitae voluptatum? Asperiores aspernatur, blanditiis, corporis cumque deleniti dignissimos est explicabo hic illo nam odio praesentium quas quia ratione recusandae voluptate voluptatum. Ad alias aliquam assumenda ea eligendi, est facilis iste itaque, maxime nisi quaerat quod reiciendis, rem repudiandae sed totam voluptatem! Eveniet laborum nisi quis voluptatum.
+            <h1>The Club</h1>
+            SHARE is the newest club in Sofia and opened in May 2014 by owner Stoyan Stoyanov
+            and Partners. The nightclub, bar and ultra lounge spans 2 floors with the ultra
+            modern and hip nightclub downs stairs creating a unique dance floor encased by 
+            couches, tables and VIP cabanas while keeping a full view of the dance floor at
+            all times. Upstairs every SHARE guest can enjoy the luxury and privacy of the
+            SHARE Ultra Lounge and bar with open seating or VIP Private rooms. Share Nightclub, bar and Ultra Lounge is located at Vasil Kanchev Street. Share Nightclub is the newest club in Sofia. Come here and SHARE the experience!
         </div>
         <div class="col-md-4">
             <aside>
-                <h4>Sidebar</h4>
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem culpa cumque, cupiditate eaque et exercitationem harum quam vel velit voluptas.</p>
+                <h4></h4>
+                <p></p>
             </aside>
         </div>
     </div>
