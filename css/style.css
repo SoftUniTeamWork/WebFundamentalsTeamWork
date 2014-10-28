@@ -4,8 +4,13 @@
 
 #home-slider {
     width: 800px;
-	height: 500px;
 	margin: 0 auto 50px;
+    max-width: 100%;
+}
+
+#home-slider img {
+    width: 800px;
+    height: 500px;
     max-width: 100%;
 }
 
