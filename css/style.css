@@ -26,3 +26,7 @@ body {
 .navbar-default .navbar-nav>li>a:hover {
 	color:#9632b6;
 }
+.footer .owners>ul{
+	list-style-type: none;
+}
+
