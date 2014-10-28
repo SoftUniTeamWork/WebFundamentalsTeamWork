@@ -50,12 +50,14 @@
     </div>
 </div>
 
-<div class="container">
-            <h1>The Club</h1>
-            SHARE is the newest club in Sofia and opened in May 2014 by owner Svetlin Nakov( Dj Nako C#)
-            and Partners. The nightclub, bar and ultra lounge spans 2 floors with the ultra
-            modern and hip nightclub downs stairs creating a unique dance floor encased by 
-            couches, tables and VIP cabanas while keeping a full view of the dance floor at
-            all times. Upstairs every SHARE guest can enjoy the luxury and privacy of the
-            SHARE Ultra Lounge and bar with open seating or VIP Private rooms. Share Nightclub, bar and Ultra Lounge is located at Vasil Kanchev Street. Share Nightclub is the newest club in Sofia. Come here and SHARE the experience!
+<div class="container" id="home-info">
+    <div class="jumbotron">
+        <h1>The Club</h1>
+        SHARE is the newest club in Sofia and opened in May 2014 by owner Svetlin Nakov( Dj Nako C#)
+        and Partners. The nightclub, bar and ultra lounge spans 2 floors with the ultra
+        modern and hip nightclub downs stairs creating a unique dance floor encased by
+        couches, tables and VIP cabanas while keeping a full view of the dance floor at
+        all times. Upstairs every SHARE guest can enjoy the luxury and privacy of the
+        SHARE Ultra Lounge and bar with open seating or VIP Private rooms. Share Nightclub, bar and Ultra Lounge is located at Vasil Kanchev Street. Share Nightclub is the newest club in Sofia. Come here and SHARE the experience!
+    </div>
 </div>

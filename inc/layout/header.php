@@ -9,7 +9,6 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="css/lightbox.css"/>
     <link rel="stylesheet" href="css/style.css"/>
-    <embed name="lostmojo" src="/images/sound.mp3" loop="false" hidden="true" autostart="true">
 </head>
 <body>
 
