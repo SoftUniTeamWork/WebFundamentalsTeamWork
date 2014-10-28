@@ -21,7 +21,7 @@
                 <img src="images/slide1.jpg" alt="slide">
                 <div class="carousel-caption">
                     <h4>Dj Nako C# at his best</h4>
-                    <p>Ultra dance party. SHARE the moment!!!</p>
+                    <p>Дай му баткооо and SHARE the moment!!!</p>
                 </div>
             </div>
             <div class="item">
@@ -32,10 +32,10 @@
                 </div>
             </div>
             <div class="item">
-                <img src="images/slide2.jpg" alt="slide">
+                <img src="images/slide3.jpg" alt="slide">
                 <div class="carousel-caption">
                     <h4>Dj Nako C# at his best</h4>
-                    <p>Ultra dance party. SHARE the moment!!!</p>
+                    <p>Земи тоя бийт баце and SHARE the moment!!!</p>
                 </div>
             </div>
         </div>

@@ -6,6 +6,7 @@
     width: 800px;
 	height: 500px;
 	margin: 0 auto 50px;
+    max-width: 100%;
 }
 
 #footer {
@@ -20,15 +21,6 @@ body {
 	background: url('../images/bg.jpg') no-repeat top center fixed;
 	/*background-size: cover;*/
 }
-
-
-.navbar-default .navbar-nav>li>a:hover {
-	color:#9632b6;
-}
-.footer .owners>ul{
-	list-style-type: none;
-}
-
 
 .navbar-default .navbar-nav > li > a:hover {
 	color: #9632b6;
@@ -45,3 +37,4 @@ body {
 audio {
 	visibility: hidden;
 }
+
