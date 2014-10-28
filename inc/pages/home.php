@@ -28,7 +28,7 @@
                 <img src="images/slide2.jpg" width="800" height="500" alt="slide">
                 <div class="carousel-caption">
                     <h4>Dj Nako C# showing people how to party</h4>
-                    <p>Disco club SHARE <--></--> SHARE the moment!!!</p>
+                    <p>Disco club SHARE --> SHARE the moment!!!</p>
                 </div>
             </div>
             <div class="item">
