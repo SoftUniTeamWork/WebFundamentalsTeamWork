@@ -21,7 +21,7 @@ body {
 	/*background-size: cover;*/
 }
 
-<<<<<<< HEAD
+
 .navbar-default .navbar-nav>li>a:hover {
 	color:#9632b6;
 }
@@ -29,8 +29,19 @@ body {
 	list-style-type: none;
 }
 
-=======
+
 .navbar-default .navbar-nav > li > a:hover {
 	color: #9632b6;
 }
->>>>>>> 1ae890578edde42254eb6a53b171423307224ee8
+
+.left {
+	float: left;
+}
+.dropdown-toggle, .dropdown-menu{
+	background-color: #000000;
+	color:#888888;
+}
+
+audio {
+	visibility: hidden;
+}

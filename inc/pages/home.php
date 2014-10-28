@@ -4,6 +4,8 @@
         <ol class="carousel-indicators">
             <li data-target="#home-slider" data-slide-to="0" class="active"></li>
             <li data-target="#home-slider" data-slide-to="1"></li>
+            <li data-target="#home-slider" data-slide-to="2"></li>
+            <li data-target="#home-slider" data-slide-to="3"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -19,7 +21,21 @@
                 <img src="images/slide1.jpg" alt="slide">
                 <div class="carousel-caption">
                     <h4>Dj Nako C# at his best</h4>
-                    <p></p>
+                    <p>Ultra dance party. SHARE the moment!!!</p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="images/slide2.jpg" alt="slide">
+                <div class="carousel-caption">
+                    <h4>Dj Nako C# showing people how to party</h4>
+                    <p>Disco club SHARE <--></--> SHARE the moment!!!</p>
+                </div>
+            </div>
+            <div class="item">
+                <img src="images/slide2.jpg" alt="slide">
+                <div class="carousel-caption">
+                    <h4>Dj Nako C# at his best</h4>
+                    <p>Ultra dance party. SHARE the moment!!!</p>
                 </div>
             </div>
         </div>
@@ -38,7 +54,7 @@
     <div class="row">
         <div class="col-md-8">
             <h1>The Club</h1>
-            SHARE is the newest club in Sofia and opened in May 2014 by owner Stoyan Stoyanov
+            SHARE is the newest club in Sofia and opened in May 2014 by owner Svetlin Nakov( Dj Nako C#)
             and Partners. The nightclub, bar and ultra lounge spans 2 floors with the ultra
             modern and hip nightclub downs stairs creating a unique dance floor encased by 
             couches, tables and VIP cabanas while keeping a full view of the dance floor at
